@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>teapot.obj</file>
+        <file>diamond.dxf</file>
+        <file>cube.dxf</file>
+        <file>cube_dxf.obj</file>
+        <file>cube_blender.dxf</file>
+        <file>shaders/robustwireframe.frag</file>
+        <file>shaders/robustwireframe.geom</file>
+        <file>shaders/robustwireframe.vert</file>
+    </qresource>
+</RCC>
